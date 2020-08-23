@@ -30,3 +30,8 @@ end )
 
 local function CreateSomeTimers( )
 timer.Create( "timerfürhelp", 150, 0, function() PrintMessage( HUD_PRINTTALK, "Wenn du dein Team ändern möchtest mach !Blue oder !Red") end )
+
+--Networking
+--Model hinzufügen
+--Spawnpoint hinzufügen
+--Blue und Red erstellen
